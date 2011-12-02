@@ -1,0 +1,5 @@
+<testsuites>
+  <testsuite>
+    <directory>tests</directory>
+  </testsuite>
+</testsuites>
